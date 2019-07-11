@@ -8,17 +8,7 @@
 <title>Chemistry Department</title>
 <base  />
 <header>
-  <div class="container">
-    <div class="row">
-      <div class="container">
-        <div id="logo"><a href="index9328.html?route=common/home"><img src="image/cache/catalog/demo/banners/headerimage - Copy.png" title="University" alt="Avinash Kumbhar" class="img-responsive" /></a></div>
-      </div>
-     
-     
-    </div>
-  </div>
-
-	 </style>
+  
 	 
   <div class="col-md-2">
   
