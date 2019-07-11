@@ -17,60 +17,6 @@
      
     </div>
   </div>
-</header>
-<div class="container">
-  <nav id="menu" class="navbar">
-    <div class="navbar-header"><span id="category" class="visible-xs">Menus</span>
-      <button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-bars"></i></button>
-    </div>
-    <div class="collapse navbar-collapse navbar-ex1-collapse">
-      <ul class="nav navbar-nav">
-         <li class="dropdown"><a href="index.html" class="dropdown-toggle" ><b>Home</b></a></li>
-		 <li class="dropdown"><a href="Research.php" class="dropdown-toggle" ><b>Research</b></a></li>
-         <li class="dropdown"><a href="publication.php" class="dropdown-toggle"><b>Publications</b></a></li>
-	  <li class="dropdown"><a href="Teaching.php" class="dropdown-toggle"><b>Teaching</b></a></li>  
-	   <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Members</b></a>
-                                    <div class="dropdown-menu">
-                                          <div class="dropdown-inner">               
-										        <ul class="list-unstyled">
-                                                    <li><a href="Current.php">Current</a></li>
-								                    <li><a href="Alumni.php">Alumni</a></li>
-	                                            </ul>
-											</div>
-							        </div>  </li>
-	  <li class="dropdown"><a href="Collaborators.php" class="dropdown-toggle" ><b>Collaborators</b></a>  
-	  <li class="dropdown"><a href="facility.php" class="dropdown-toggle" ><b>Facility</b></a></li> 
-<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><b>Other Activities</b></a>
-                                    <div class="dropdown-menu">
-                                          <div class="dropdown-inner">               
-										        <ul class="list-unstyled">
-                                                    <li><a href="activity1.php">NCFRR</a></li>
-								                    <li><a href="activity2.php">B.Sc.Blended</a></li>
-													 <li><a href="activity3.php">SPPU Science Club</a></li>
-	                                            </ul>
-											</div>
-							        </div>  </li>	  
-      <li class="dropdown"><a href="gallary.php" class="dropdown-toggle"><b>Gallery</b></a></li>
-	  <li class="dropdown"><a href="News.php" class="dropdown-toggle" ><b>News<img src="image/catalog/news/news-gif-5.gif" width="30px;"/></b></a> </li>    
-         </ul>
-    </div>
-  </nav>
-</div>
- 
-
-<div id="common-home" class="container">
- 
-  <div class="row">
-  	 <!-- Sidebar -->
-	 <style>
-	 
-	 /* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-  .col-md-2 {background: red;
-    display:none;
-  }
-}
-
 
 	 </style>
 	 
