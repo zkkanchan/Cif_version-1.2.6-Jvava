@@ -1,0 +1,10 @@
+npm install -g nodemon 
+npm install -g nodemon --save 
+npm install --save-dev nodemon 
+npm install -g nodemon@debug 
+npm install -g --force nodemon
+
+npm i body-parser
+npm i express
+npm i mongoose
+npm i morgan
